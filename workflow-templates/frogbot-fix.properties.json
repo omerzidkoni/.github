@@ -1,6 +1,6 @@
 {
     "name": "Frogbot Create Fix Pull Requests",
-    "description": "Frogbot scans your GitHub repository and automatically opens pull requests for upgrading vulnerable dependencies to a version with a fix. Frogbot uses JFrog Xray for the scanning.",
+    "description": "Scan your GitHub repository using JFrog Frogbot. Frogbot automatically opens pull requests for upgrading vulnerable dependencies to a version with a fix, Using JFrog Xray for the scanning.",
     "iconName": "frogbot",
     "categories": [
         "Code Scanning",
