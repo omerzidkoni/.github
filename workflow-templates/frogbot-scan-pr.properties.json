@@ -10,5 +10,6 @@
         "Gradle",
         "C#",
         "Python"
-    ]
+    ],
+    "owner": "JFrog"
 }
