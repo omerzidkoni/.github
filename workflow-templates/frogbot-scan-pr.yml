@@ -3,7 +3,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: "Frogbot Scan PR"
+name: "Frogbot Scan"
 on:
   pull_request_target:
     types: [opened, synchronize]
